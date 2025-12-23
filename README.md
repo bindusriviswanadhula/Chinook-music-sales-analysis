@@ -1,2 +1,2 @@
-sql-project
-chinook music store sales analysis
+# sql-project
+# chinook music store sales analysis
